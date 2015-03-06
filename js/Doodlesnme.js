@@ -1,8 +1,3 @@
-/##			Demo by 
-#				Babajide Fowotade
-#				Courtesy www.nicoptere.net
-##/
-
 (function () { "use strict";
 var $hxClasses = {},$estr = function() { return js.Boot.__string_rec(this,''); };
 function $extend(from, fields) {
